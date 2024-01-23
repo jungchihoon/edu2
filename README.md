@@ -1,1 +1,1 @@
-# edu2
+# CloudNative 교육 Edu2
